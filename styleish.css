@@ -1,0 +1,152 @@
+#parent{
+	position: relative;
+	
+}
+.div1{
+	border-radius: 30px;
+	background-color: blue;
+	width: 340px;
+	height: 470px;
+	position: absolute;
+	left:20em;
+	top:4em;
+	z-index: 9;
+	background-color: #4834df ;
+
+}
+.div2{
+	border-radius: 30px;
+	background-color: lightblue;
+	width:350px;
+	height: 480px;
+	padding-bottom: 20px;
+	position: absolute;
+	top:4em;
+	left:40em;
+	background-color: #ebebff ;
+	width: 340px;
+	height: 450px;
+
+}
+.circle {
+	position: absolute;
+	top:5em;
+	left:4.5em;
+	background-image: linear-gradient(180deg ,#2727d8 60%, #4834df);
+	border-radius: 50%;
+	 width: 200px;
+     height: 200px;
+     opacity: 2px;
+}
+.head{
+	color: #e6e5ea;
+	font-family: Geneva,Verdana, sans-serif ;
+	text-align: center;
+	padding-top: 10px;
+
+
+}
+.number1{
+	color:#e6e5ea;
+	text-align: center;
+	font-weight: bold;
+	font-size: 45px;
+	margin-bottom: 10px;
+}
+.number2{
+	text-align: center;
+	color:rgba(229,226,250, 0.4);
+}
+.mid{
+	position: absolute;
+	left:4.5em ;
+	bottom: 3em;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+font-family: Geneva,Verdana, sans-serif ;
+} 
+.end{
+	position: absolute;
+    text-align: center;
+    left:3em;
+    bottom: 2.3em;
+	color:rgba(229,226,250, 0.4);
+	font-family: Geneva,Verdana, sans-serif ;
+	font-size: 15px;
+	overflow-wrap: break-word;
+	inline-size: 15opx;
+	}
+.summry{
+	position: absolute;
+	top:2em;
+	left:2.5em;
+	color:black;
+	font-size: 20px;
+	font-family: Geneva,Verdana, sans-serif ;
+	font-weight: bold;
+}
+
+.align-icon {
+	position: absolute;
+    left:2.5em;	
+    top:6em;
+}
+.fa-solid{
+	padding:15px;
+}
+.fa-regular{
+	padding: 15px;
+}
+.Reaction{
+	background-color: #ffebeb;
+	padding-left:10px;
+	border-radius: 8px;
+	color: #c37328;
+	margin: 10px;
+	font-family: Geneva,Verdana, sans-serif ;
+	font-size: 15PX;
+}
+
+.Memory{
+	background-color: #ffffeb;
+	padding-left:10px;
+	border-radius: 8px;
+	color: #ffe100 ;
+	margin: 15px;
+	font-family: Geneva,Verdana, sans-serif ;
+	font-size: 15PX;
+}
+.Verbal{
+	background-color: #f5ffeb;
+	padding-left:10px;
+	border-radius: 8px;
+	color: #267920 ;
+	margin: 15px;
+	font-family: Geneva,Verdana, sans-serif ;
+
+}
+.Visual{
+	background-color: #d2d2ff;
+	padding-left:10px;
+	border-radius: 8px;
+	color:#1450b8 ;
+	margin: 15px;
+	font-family: Geneva,Verdana, sans-serif ;
+
+}
+.continue{
+	position: absolute;
+	top:22em;
+	left:3.5em;
+	background-color:#324759 ;
+	color: white ;
+	padding: 12px;
+	padding-left: 85px;
+	padding-right: 85px;
+	border-radius: 25px;
+	font-family: Geneva,Verdana, sans-serif ;
+	margin-top: 25px;
+
+
+}
